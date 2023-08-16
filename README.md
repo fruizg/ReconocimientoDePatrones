@@ -1,0 +1,2 @@
+# Reconococimiento de patrones - GitHub
+ 
