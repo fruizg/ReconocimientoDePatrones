@@ -5,4 +5,4 @@ Soy Francisco Ruiz Garcia, estudiante de intercambio durante el ciclo 2023-2. So
 Descripción del curso y motivaciones: El enfoque que le quiero dar a mi carrera está relacionado con la analítica de datos (en general y también en salud). Al revisar el pensum de la UPCH, me di cuenta de todo lo que podía aprender acá y que podía aportar a mi perfil profesional, lo que me hizo tomar la decisión de realizar el intercambio. Es así como tengo grandes expectativas del curso, con mucho que aprender y poder luego aplicar en mi campo.
 
 
-![Foto francisco ruiz](/images/FOTO%20-%20FRANCISCO%20RUIZ.jpg)
+![Foto Francisco Ruiz Garcia](/images/FOTO%20-%20FRANCISCO%20RUIZ.jpg)
