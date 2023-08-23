@@ -9,7 +9,7 @@ Descripción del curso y motivaciones: El enfoque que le quiero dar a mi carrera
 
 Soy Giovanni Taco Diaz, soy estudiante de ultimo año de la carrera de ingenieria biomedica
 
-Expectativas del curso y motivaciones: Mi interés profesional se centra en el ámbito de la análisis de datos, abarcando tanto su aplicación general como en el contexto de la salud. Al examinar el plan de estudios de la UPCH, me percaté de la amplia gama de conocimientos que podría adquirir aquí y cómo podría enriquecer mi trayectoria profesional. Este descubrimiento fue determinante para optar por participar en el programa de intercambio. Por lo tanto, tengo grandes expectativas con respecto al curso, anticipando un valioso aprendizaje que podré posteriormente poner en práctica en mi campo de especialización.
+Expectativas del curso y motivaciones: Mi interés profesional se centra en el ámbito del analisis biomecanico y la aplicacion de tecnologias relevantes en Machine Learning para el desarrollo del campo biomecanico. Por lo anterior, tengo grandes expectativas con respecto al curso, anticipando un valioso aprendizaje que podré posteriormente poner en práctica en mi campo de especialización y proyecto de tesis.
 
 ![Foto Giovanni Taco Diaz](/images/DSC09014.JPG)
 
